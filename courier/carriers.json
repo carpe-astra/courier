@@ -1,0 +1,42 @@
+[
+    {
+        "name": "AT&T",
+        "extension": "@txt.att.net"
+    },
+    {
+        "name": "Sprint",
+        "extension": "@messaging.sprintpcs.com"
+    },
+    {
+        "name": "T-Mobile",
+        "extension": "@tmomail.net"
+    },
+    {
+        "name": "Verizon",
+        "extension": "@vtext.com"
+    },
+    {
+        "name": "Boost Mobile",
+        "extension": "@myboostmobile.com"
+    },
+    {
+        "name": "Cricket",
+        "extension": "@sms.mycricket.com"
+    },
+    {
+        "name": "Metro PCS",
+        "extension": "@mymetropcs.com"
+    },
+    {
+        "name": "Tracfone",
+        "extension": "@mmst5.tracfone.com"
+    },
+    {
+        "name": "U.S. Cellular",
+        "extension": "@email.uscc.net"
+    },
+    {
+        "name": "Virgin Mobile",
+        "extension": "@vmobl.com"
+    }
+]
